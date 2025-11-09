@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "currency": "$",
+    "max_buy_per_transaction": 64,
+    "max_sell_per_transaction": 64,
+    "enable_buy": true,
+    "enable_sell": true
+  }
+}
+
