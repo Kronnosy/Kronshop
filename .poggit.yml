@@ -5,4 +5,5 @@ branches:
 projects:
   Kronshop:
     path: ""
+    icon: kronshop_icon.png
 ...
